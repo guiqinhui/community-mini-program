@@ -7,7 +7,7 @@ App({
     return 1008;
   },
   getAppName:function(){
-    return "小程序名称";
+    return "守望家园BBS";
   },
   CDNUrl:function(){
     return "静态文件的CDN地址";
